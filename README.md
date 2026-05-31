@@ -28,7 +28,7 @@ Graduated from Fırat University. I specialize in architecting high-performance 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Conquerorr0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Fatih's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Conquerorr0&theme=dark&hide_border=true&background=0d1117" alt="Fatih's GitHub Streak" height="180px" />
-</p>
+</p> 
 
 ---
 
